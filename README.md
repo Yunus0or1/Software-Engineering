@@ -4,4 +4,4 @@ This repo is basically on software engineering and requirement analysis on [Habi
 
   - **Software Requirements Specification**: Specifies all the requirments and analysis of the feasibility. 
   - **UML diagrams**: Diagrams on complete interactions between different stakeholders. Included ***Use Case*** and ***Class*** diagram.
-  - **Size Measurment**: Based on requirements, it is to estimate the size of a software components in order to be able to implement management activities
+  - **Size Measurment**: Based on requirements, it is to estimate the size of software components in order to be able to implement management activities.
